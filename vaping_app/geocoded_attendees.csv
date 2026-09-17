@@ -1,0 +1,177 @@
+School Name,School Type,Youth Attendees,Address,Year,full_address,latitude,longitude
+Haugan Elementary,Elementary,150,"4540 N Hamlin Ave, Chicago, IL  60625",2022-10-24T00:00:00Z,"4540 N Hamlin Ave, Chicago, IL  60625 Chicago, IL",41.963725039719,-87.723663983738
+Ralph Ellison High,High School,17,"1817 W 80th St, Chicago, IL  60620",2022-11-04T00:00:00Z,"1817 W 80th St, Chicago, IL  60620 Chicago, IL",41.748062233323,-87.669123191232
+Jane Addams Elementary,Elementary,120,"10810 S Avenue H Chicago, IL 60617",2022-11-11T00:00:00Z,"10810 S Avenue H Chicago, IL 60617 Chicago, IL",41.698549451166,-87.533408360338
+Lawndale Academy,Elementary,18,"3500 W Douglas Blvd, Chicago, IL  60623",2022-12-06T00:00:00Z,"3500 W Douglas Blvd, Chicago, IL  60623 Chicago, IL",41.863316084195,-87.713239075482
+Lawndale Academy,Elementary,17,"3500 W Douglas Blvd, Chicago, IL  60623",2022-12-07T00:00:00Z,"3500 W Douglas Blvd, Chicago, IL  60623 Chicago, IL",41.863316084195,-87.713239075482
+Lawndale Academy,Elementary,20,"3500 W Douglas Blvd, Chicago, IL  60623",2022-12-08T00:00:00Z,"3500 W Douglas Blvd, Chicago, IL  60623 Chicago, IL",41.863316084195,-87.713239075482
+Shields Middle,Middle,413,"2611 W 48th St Chicago, IL 60632",2023-01-24T00:00:00Z,"2611 W 48th St Chicago, IL 60632 Chicago, IL",41.80629072795,-87.690704077338
+Throp Elementary,Elementary,65,"8914 S Buffalo Ave Chicago, IL 60617",2023-01-31T00:00:00Z,"8914 S Buffalo Ave Chicago, IL 60617 Chicago, IL",41.733003264169,-87.544832139995
+Nobel Elementary,Elementary,225,"4127 W Hirsch St Chicago, IL 60651",2023-02-07T00:00:00Z,"4127 W Hirsch St Chicago, IL 60651 Chicago, IL",41.905827881724,-87.729855779433
+Douglas Taylor Elementary,Elementary,135,"9912 S Avenue H, Chicago, IL  60617",2023-02-27T00:00:00Z,"9912 S Avenue H, Chicago, IL  60617 Chicago, IL",41.715340205336,-87.533307609862
+Douglas Taylor Elementary,Elementary,135,"9912 South Avenue H, Chicago, IL 60617",2023-02-27T00:00:00Z,"9912 South Avenue H, Chicago, IL 60617 Chicago, IL",41.715340205336,-87.533307609862
+Acero-Rufino Tamayo,Elementary,120,"5135 S California Chicago, IL 60632",2023-03-06T00:00:00Z,"5135 S California Chicago, IL 60632 Chicago, IL",41.799954051059,-87.69362039291
+Nathan Hale,Elementary,200,"6140 S Melvina Ave, Chicago, IL  60638",2023-03-09T00:00:00Z,"6140 S Melvina Ave, Chicago, IL  60638 Chicago, IL",41.780503383735,-87.776970121906
+Henry Clay Elementary,Elementary,172,"13231 S Burley Ave Chicago, IL 60633",2023-03-10T00:00:00Z,"13231 S Burley Ave Chicago, IL 60633 Chicago, IL",41.654662518601,-87.544029740404
+Ogden Highschool,High School,150,"1250 W Erie St, Chicago, IL 60642",2023-03-24T00:00:00Z,"1250 W Erie St, Chicago, IL 60642 Chicago, IL",41.893787361632,-87.6588036435
+Instituto Health Science Academy,Elementary,536,"2520 S Western Ave Chicago, IL 60608",2023-03-27T00:00:00Z,"2520 S Western Ave Chicago, IL 60608 Chicago, IL",41.845669914896,-87.685869227949
+Parkside Elementary,Elementary,67,"6938 S East End Ave Chicago, IL 60649",2023-03-31T00:00:00Z,"6938 S East End Ave Chicago, IL 60649 Chicago, IL",41.768909283806,-87.583305829942
+Perspective Leadership School,High School,200,"8522 S Lafayette Ave Chicago, IL 60620",2023-04-10T00:00:00Z,"8522 S Lafayette Ave Chicago, IL 60620 Chicago, IL",41.739027254162004,-87.626595845272
+George Washington HS,High School,210,"3535 E 114th St Chicago, IL 60617",2023-04-26T00:00:00Z,"3535 E 114th St Chicago, IL 60617 Chicago, IL",41.687165820825,-87.538186212787
+Ogden Highschool,High School,150,"1250 W Erie St, Chicago, IL 60642",2023-05-12T00:00:00Z,"1250 W Erie St, Chicago, IL 60642 Chicago, IL",41.893787361632,-87.6588036435
+Deenen Elementary,Elementary,47,"7257 S State Chicago, IL 60619",2023-05-18T00:00:00Z,"7257 S State Chicago, IL 60619 Chicago, IL",41.762139388249,-87.624098708678
+Ogden Highschool,High School,150,"1250 W Erie St, Chicago, IL 60642",2023-05-19T00:00:00Z,"1250 W Erie St, Chicago, IL 60642 Chicago, IL",41.893787361632,-87.6588036435
+John L Marsh,Elementary,288,"9822 S Exchange Ave Chicago, IL 60617",2023-05-19T00:00:00Z,"9822 S Exchange Ave Chicago, IL 60617 Chicago, IL",41.716250982935,-87.553138857499
+Cardenas Elementary,Elementary,200,"2524 S Central Ave Chicago, IL 60623",2023-09-13T00:00:00Z,"2524 S Central Ave Chicago, IL 60623 Chicago, IL",41.845557429756,-87.715132212134
+Stagg Elementary,Elementary,100,"7424 S Morgan Chicago, IL 60621",2023-10-25T00:00:00Z,"7424 S Morgan Chicago, IL 60621 Chicago, IL",41.759006358571,-87.64938414453
+Ashburn Community Elementary,Elementary,75,"8300 S St. Louis Ave Chicago, IL 60652",2023-11-08T00:00:00Z,"8300 S St. Louis Ave Chicago, IL 60652 Chicago, IL",41.741899397104,-87.709813475474
+Faraday Elementary,Elementary,25,3250 W Monroe St Chicago IL 60624,2023-11-09T00:00:00Z,"3250 W Monroe St Chicago IL 60624 Chicago, IL",41.879920550566,-87.707484731314
+Mansueto HS,High School,20,"2911 W 47th St Chicago,IL 60632",2023-12-01T00:00:00Z,"2911 W 47th St Chicago,IL 60632 Chicago, IL",41.807579990387,-87.696920012914
+Throp Middle,Middle,45,8914 S Buffalo Ave Chicago IL 60617,2023-12-19T00:00:00Z,"8914 S Buffalo Ave Chicago IL 60617 Chicago, IL",41.733003264169,-87.544832139995
+Tilden HS,High School,230,4747 S Union Ave Chicago IL 60609,2024-01-08T00:00:00Z,"4747 S Union Ave Chicago IL 60609 Chicago, IL",41.807520604603,-87.642101108861
+Sadlowski Elementary,Elementary,190,"3930 E 105th Chicago, IL 60617",2024-01-17T00:00:00Z,"3930 E 105th Chicago, IL 60617 Chicago, IL",41.704795771141,-87.528187440489
+Pickard Elementary,Elementary,89,"2301 W 21st Pl, Chicago, IL 60608 ",2024-02-12T00:00:00Z,"2301 W 21st Pl, Chicago, IL 60608  Chicago, IL",41.852791473201,-87.683522043602
+Crane Medical HS,High School,276,"2245 W Jackson Blvd Chicago, IL 60612",2024-02-16T00:00:00Z,"2245 W Jackson Blvd Chicago, IL 60612 Chicago, IL",41.876876830066,-87.683242339493
+Sawyer Elementary,Elementary,343,"524 S Sawyer Ave Chicago, IL 60632",2024-02-20T00:00:00Z,"524 S Sawyer Ave Chicago, IL 60632 Chicago, IL",41.810773863821,-87.705293913574
+Patrick Henry,Elementary,180,"4250 N St. Louis Ave Chicago, IL 60618",2024-02-21T00:00:00Z,"4250 N St. Louis Ave Chicago, IL 60618 Chicago, IL",41.958722803722,-87.715838471295
+Mather HS,High School,86,"5835 N Lincoln Ave Chicago, IL 60659",2024-02-22T00:00:00Z,"5835 N Lincoln Ave Chicago, IL 60659 Chicago, IL",41.988182427356,-87.700602266798
+Dyett High,High School,117,"555 E 51st Chicago, IL 60615",2024-02-27T00:00:00Z,"555 E 51st Chicago, IL 60615 Chicago, IL",41.801385596302,-87.611874038173
+Kelly Prep HS,High School,50,"4136 S California Ave, Chicago, IL 60632",2024-03-14T00:00:00Z,"4136 S California Ave, Chicago, IL 60632 Chicago, IL",41.818112564188,-87.69484012746
+Parkside Academy,Elementary,30,"6938 S East End Ave, Chicago, IL 606049",2024-03-20T00:00:00Z,"6938 S East End Ave, Chicago, IL 606049 Chicago, IL",41.768909283806,-87.583305829942
+Kellman Corporate Elementary,Elementary,49,"3030 W Arthington St, Chicago, IL 60612",2024-03-20T00:00:00Z,"3030 W Arthington St, Chicago, IL 60612 Chicago, IL",41.870301604211,-87.702558100085
+Volta Elementary,Elementary,250,"4950 N Avers Ave Chicago, IL 60625",2024-03-21T00:00:00Z,"4950 N Avers Ave Chicago, IL 60625 Chicago, IL",41.971454411732,-87.725089326373
+Sabin Dual Langauge,Elementary,111,"2216 W Hirsch St, Chicago IL, 60622",2024-03-21T00:00:00Z,"2216 W Hirsch St, Chicago IL, 60622 Chicago, IL",41.907404056707,-87.682878229619
+Brighton Park,Elementary,95,"3825 S Washtenaw Ave Chicago, IL 60632",2024-04-08T00:00:00Z,"3825 S Washtenaw Ave Chicago, IL 60632 Chicago, IL",41.823912589729,-87.691987430533
+Walsh Elementary,Elementary,60,"2015 S Peoria St Chicago, IL 60608",2024-04-08T00:00:00Z,"2015 S Peoria St Chicago, IL 60608 Chicago, IL",41.854956686429,-87.647893925965
+Turner-Drew,Elementary,60,Virtual,2024-04-09T00:00:00Z,"Virtual Chicago, IL",41.781582,-87.969647
+Gallistel Language,Elementary,193,"10347 S Ewing Ave Chicago, IL 60617",2024-04-09T00:00:00Z,"10347 S Ewing Ave Chicago, IL 60617 Chicago, IL",41.706900760395,-87.53493185506
+Alfred Nobel,Elementary,200,"4127 W Hirsch St, Chicago IL, 60651",2024-04-09T00:00:00Z,"4127 W Hirsch St, Chicago IL, 60651 Chicago, IL",41.905827881724,-87.729855779433
+Otis Elementary,Elementary,80,"525 N Armour St Chicago, IL 60642",2024-04-11T00:00:00Z,"525 N Armour St Chicago, IL 60642 Chicago, IL",41.891669422338,-87.665106164136
+Christopher Elementary,Elementary,80,"5042 S Artesian Ave, Chicago IL 60632",2024-04-15T00:00:00Z,"5042 S Artesian Ave, Chicago IL 60632 Chicago, IL",41.801765925159,-87.686070225987
+George Washington Elementary,Elementary,219,"3611 E 114th St Chicago, IL 60617",2024-04-17T00:00:00Z,"3611 E 114th St Chicago, IL 60617 Chicago, IL",41.687759804394,-87.535940030374
+Christian Fenger HS,High School,80,"11220 S Wallace St, Chicago IL, 60628",2024-04-23T00:00:00Z,"11220 S Wallace St, Chicago IL, 60628 Chicago, IL",41.689078361583,-87.638358672912
+Eberhart Elementary,Elementary,350,"3400 W 65th Pl Chicago, IL 60629",2024-04-24T00:00:00Z,"3400 W 65th Pl Chicago, IL 60629 Chicago, IL",41.77474971012,-87.708583431183
+Dyett High,High School,117,"555 E 51st Chicago, IL 60615",2024-04-29T00:00:00Z,"555 E 51st Chicago, IL 60615 Chicago, IL",41.801385596302,-87.611874038173
+Kinzie Elementary,Elementary,233,"5625 S Mobile Ave Chicago, IL 60638",2024-04-30T00:00:00Z,"5625 S Mobile Ave Chicago, IL 60638 Chicago, IL",41.789448131709,-87.778930649058
+George Washington HS,High School,150,"3535 E 114th St Chicago, IL 60617",2024-04-30T00:00:00Z,"3535 E 114th St Chicago, IL 60617 Chicago, IL",41.687165820825,-87.538186212787
+Gage HS,High School,50,"5630 S Rockwell St Chicago, IL 60629",2024-05-06T00:00:00Z,"5630 S Rockwell St Chicago, IL 60629 Chicago, IL",41.790558817699,-87.689739823197
+Mollison Elementary,Elementary,80,"4415 S King Dr, Chicago IL 60653",2024-05-07T00:00:00Z,"4415 S King Dr, Chicago IL 60653 Chicago, IL",41.814159197646,-87.616058368057
+Barton Elementary,Elementary,135,Virtual,2024-05-13T00:00:00Z,"Virtual Chicago, IL",41.781582,-87.969647
+New Sullivan Elementary,Elementary,100,"8331 S Mackinaw Ave, Chicago IL, 60617",2024-05-13T00:00:00Z,"8331 S Mackinaw Ave, Chicago IL, 60617 Chicago, IL",41.74403104081,-87.542657706674
+Parkside Academy,Elementary,24,"6938 S East End Ave, Chicago, IL 606049",2024-05-28T00:00:00Z,"6938 S East End Ave, Chicago, IL 606049 Chicago, IL",41.768909283806,-87.583305829942
+Alfred Nobel Elementary,Elementary,230,"4127 W Hirsch St Chicago, IL 60651",2024-09-18T00:00:00Z,"4127 W Hirsch St Chicago, IL 60651 Chicago, IL",41.905827881724,-87.729855779433
+George Washington High School,High School,150,"3535 E 114th St, Chicago, IL 60617",2024-10-02T00:00:00Z,"3535 E 114th St, Chicago, IL 60617 Chicago, IL",41.687165820825,-87.538186212787
+Zapata Elementary,Elementary,173,"2728 S Kostner Ave Chicago, IL 60623",2024-10-02T00:00:00Z,"2728 S Kostner Ave Chicago, IL 60623 Chicago, IL",41.841759086513,-87.735179126139
+Horizon,Elementary,425,"5401 S Western Ave, Chicago IL 60609",2024-10-11T00:00:00Z,"5401 S Western Ave, Chicago IL 60609 Chicago, IL",41.79538746448,-87.682796422244
+Edward White,Elementary,33,"1136 W 122nd St, Chicago, IL 60643",2024-10-16T00:00:00Z,"1136 W 122nd St, Chicago, IL 60643 Chicago, IL",41.672715713118,-87.650624414743
+Cesar Chavez Elementary,Elementary,28,"4831 S Hermitage Ave, Chicago, IL 60609",2024-10-16T00:00:00Z,"4831 S Hermitage Ave, Chicago, IL 60609 Chicago, IL",41.80586999832,-87.668239990095
+Stevenson Elementary,Elementary,353,"4350 W 79th St. Chicago, IL 60652",2024-10-22T00:00:00Z,"4350 W 79th St. Chicago, IL 60652 Chicago, IL",41.750333268079,-87.731010051319
+Cesar Chavez Elementary,Elementary,104,"4831 S Hermitage Ave, Chicago, IL 60609",2024-10-28T00:00:00Z,"4831 S Hermitage Ave, Chicago, IL 60609 Chicago, IL",41.80586999832,-87.668239990095
+Willa Cather Elementary,Elementary,55,"2908 W Washington Blvd, Chicago, IL 60612",2024-10-29T00:00:00Z,"2908 W Washington Blvd, Chicago, IL 60612 Chicago, IL",41.883313461153,-87.699174996325
+Rachel Carson Elementary,Elementary,220,"5516 S Maplewood Ave, Chicago IL 60629",2024-10-30T00:00:00Z,"5516 S Maplewood Ave, Chicago IL 60629 Chicago, IL",41.793297562652,-87.688376841922
+Gage Park HS,High School,56,"5630 S Rockwell St, Chicago, IL 60629",2024-11-07T00:00:00Z,"5630 S Rockwell St, Chicago, IL 60629 Chicago, IL",41.790558817699,-87.689739823197
+Cesar Chavez Elementary,Elementary,52,"4831 S Hermitage Ave, Chicago, IL 60609",2024-11-08T00:00:00Z,"4831 S Hermitage Ave, Chicago, IL 60609 Chicago, IL",41.80586999832,-87.668239990095
+Cesar Chavez Elementary,Elementary,52,"4831 S Hermitage Ave, Chicago, IL 60609",2024-11-08T00:00:00Z,"4831 S Hermitage Ave, Chicago, IL 60609 Chicago, IL",41.80586999832,-87.668239990095
+Stowe Elementary,Elementary,150,"3444 W Wabansia Ave Chicago, IL 60647",2024-11-13T00:00:00Z,"3444 W Wabansia Ave Chicago, IL 60647 Chicago, IL",41.91251827493,-87.71313891174
+Palmer Elementary,Elementary,129,"5051 N Kenneth, Chicago, IL 60630",2024-11-15T00:00:00Z,"5051 N Kenneth, Chicago, IL 60630 Chicago, IL",41.972956155414,-87.738951653121
+Wacker Elementary,Elementary,35,"9746 S Morgan St, Chicago, IL 60643",2024-11-15T00:00:00Z,"9746 S Morgan St, Chicago, IL 60643 Chicago, IL",41.716309991533,-87.648389966995
+Suder Montessori Magnet,Elementary,75,"2022 W Washington Blvd, Chicago IL 60612",2024-11-18T00:00:00Z,"2022 W Washington Blvd, Chicago IL 60612 Chicago, IL",41.883439692614,-87.677957549541
+Sawyer Elementary,Elementary,310,"5248 S Sawyer Ave, Chicago, IL, 60632",2024-12-03T00:00:00Z,"5248 S Sawyer Ave, Chicago, IL, 60632 Chicago, IL",41.797580170351,-87.705261347678
+Crane HS,High School,67,"2245 W Jackson Blvd, Chicago, IL, 60612",2024-12-16T00:00:00Z,"2245 W Jackson Blvd, Chicago, IL, 60612 Chicago, IL",41.876876830066,-87.683242339493
+Eberhart Elementary,Elementary,338,"3400 West 65th Place Chicago, IL 60629",2025-01-08T00:00:00Z,"3400 West 65th Place Chicago, IL 60629 Chicago, IL",41.77474971012,-87.708583431183
+Perspectives Leadership Academy,High School,40,"8522 S Lafayette Ave, Chicago, IL 60620",2025-01-21T00:00:00Z,"8522 S Lafayette Ave, Chicago, IL 60620 Chicago, IL",41.739027254162004,-87.626595845272
+Tilden High School,High School,100,"4747 S Union Ave, Chicago IL, 60609",2025-01-22T00:00:00Z,"4747 S Union Ave, Chicago IL, 60609 Chicago, IL",41.807520604603,-87.642101108861
+Pickard,Elementary,80," 2301 W 21st Pl, Chicago, IL 60608",2025-01-22T00:00:00Z," 2301 W 21st Pl, Chicago, IL 60608 Chicago, IL",41.852791473201,-87.683522043602
+Henderson,Elementary,45,"5650 S Wolcott Ave, Chicago, IL 60636",2025-01-24T00:00:00Z,"5650 S Wolcott Ave, Chicago, IL 60636 Chicago, IL",41.790782279238,-87.672365143743
+Perspectives Leadership Academy,High School,40,"8522 S Lafayette Ave, Chicago, IL 60620",2025-01-27T00:00:00Z,"8522 S Lafayette Ave, Chicago, IL 60620 Chicago, IL",41.739027254162004,-87.626595845272
+Cameron Elementary,Elementary,65,"1234 N Monticello Ave Chicago, IL 60651",2025-01-28T00:00:00Z,"1234 N Monticello Ave Chicago, IL 60651 Chicago, IL",41.904070028991,-87.718022962901
+Nicholson,Elementary,120," 6006 S Peoria St, Chicago, IL 60621",2025-01-29T00:00:00Z," 6006 S Peoria St, Chicago, IL 60621 Chicago, IL",41.78464090069,-87.647624196321
+Laura Ward STEM,Elementary,80,"646 N Lawndale Ave, Chicago, IL, 60624",2025-01-29T00:00:00Z,"646 N Lawndale Ave, Chicago, IL, 60624 Chicago, IL",41.893240735816,-87.718974811825
+Curie HS,High School,600,"4959 S Archer Ave  Chicago, IL 60632",2025-02-04T00:00:00Z,"4959 S Archer Ave  Chicago, IL 60632 Chicago, IL",41.802004557942,-87.722571067383
+Lionel Performing Arts,Elementary,125,"3434 W 77th St, Chicago, IL 60652",2025-02-06T00:00:00Z,"3434 W 77th St, Chicago, IL 60652 Chicago, IL",41.753803040718,-87.708545042066
+John Hay,Elementary,60,"1018 N Laramie Ave, Chicago, IL 60651",2025-02-07T00:00:00Z,"1018 N Laramie Ave, Chicago, IL 60651 Chicago, IL",41.899300684174,-87.756063727548
+Grissom Elementary,Elementary,90,"12810 S Escanaba Ave Chicago, IL 60633",2025-02-18T00:00:00Z,"12810 S Escanaba Ave Chicago, IL 60633 Chicago, IL",41.662131842068,-87.553571950436
+Rufino Tamayo Elementary,Elementary,100,"5135 S California Ave, Chicago, IL, 60632",2025-02-19T00:00:00Z,"5135 S California Ave, Chicago, IL, 60632 Chicago, IL",41.799954051059,-87.69362039291
+Lawndale Community Academy,Elementary,19,"3500 W Douglas Blvd. Chicago IL, 60623",2025-03-03T00:00:00Z,"3500 W Douglas Blvd. Chicago IL, 60623 Chicago, IL",41.863316084195,-87.713239075482
+Harlan High School,High School,20," 9652 S Michigan Ave, Chicago, IL 60628",2025-03-04T00:00:00Z," 9652 S Michigan Ave, Chicago, IL 60628 Chicago, IL",41.718350062947,-87.621238635677
+Cook Academy,Elementary,60,"8150 S Bishop St, Chicago, IL 60620",2025-03-05T00:00:00Z,"8150 S Bishop St, Chicago, IL 60620 Chicago, IL",41.745192898319,-87.660172575926
+Julian High School,High School,19,"10330 S Elizabeth St, Chicago, IL 60643",2025-03-06T00:00:00Z,"10330 S Elizabeth St, Chicago, IL 60643 Chicago, IL",41.705352580969,-87.654662061322
+Sauganash Elementary,Elementary,100,"6040 N Kilpatrick Ave, Chicago, IL 60646",2025-03-20T00:00:00Z,"6040 N Kilpatrick Ave, Chicago, IL 60646 Chicago, IL",41.991452417332,-87.746214153127
+Hurley Elementary,Elementary,180,"3849 W 69th Pl, Chicago, IL 60629",2025-04-02T00:00:00Z,"3849 W 69th Pl, Chicago, IL 60629 Chicago, IL",41.766551580171,-87.719282762948
+Douglas Taylor Elementary,Elementary,105,"9912 S Avenue H, Chicago IL 60617",2025-04-09T00:00:00Z,"9912 S Avenue H, Chicago IL 60617 Chicago, IL",41.715340205336,-87.533307609862
+Irving Elementary,Elementary,91,"749 S Oakley Blvd, Chicago, IL, 60612",2025-04-09T00:00:00Z,"749 S Oakley Blvd, Chicago, IL, 60612 Chicago, IL",41.871668944076,-87.682893484683
+Acero Donald Marquez,Elementary,180,"2916 W 47th St, Chicago, IL 60632",2025-04-15T00:00:00Z,"2916 W 47th St, Chicago, IL 60632 Chicago, IL",41.808570605614,-87.697191838034
+Beidler Elementary,Elementary,77,"3151 W Walnut St, Chicago, IL 60612",2025-04-16T00:00:00Z,"3151 W Walnut St, Chicago, IL 60612 Chicago, IL",41.885131034947,-87.705316835877
+Talcott Elementary,Elementary,160,"1840 W Ohio St, Chicago IL 60622",2025-04-17T00:00:00Z,"1840 W Ohio St, Chicago IL 60622 Chicago, IL",41.892598221028,-87.673958292079
+Mather High School,High School,94,"5835 N Lincoln Ave, Chicago IL 60659",2025-04-21T00:00:00Z,"5835 N Lincoln Ave, Chicago IL 60659 Chicago, IL",41.988182427356,-87.700602266798
+Englewood STEM High School,High School,302,"6835 S Normal Blvd, Chicago IL 60621",2025-04-22T00:00:00Z,"6835 S Normal Blvd, Chicago IL 60621 Chicago, IL",41.770167030287,-87.636219359765
+Christopher Elementary School,Elementary,75,"5042 S Artesian Ave, Chicago IL 60632",2025-04-23T00:00:00Z,"5042 S Artesian Ave, Chicago IL 60632 Chicago, IL",41.801765925159,-87.686070225987
+Englewood STEM High School,Elementary,250,"6835 S Normal Blvd, Chicago IL 60621",2025-04-24T00:00:00Z,"6835 S Normal Blvd, Chicago IL 60621 Chicago, IL",41.770167030287,-87.636219359765
+Mather High School,High School,110,"5835 N Lincoln Ave, Chicago IL 60659",2025-05-05T00:00:00Z,"5835 N Lincoln Ave, Chicago IL 60659 Chicago, IL",41.988182427356,-87.700602266798
+Multicultural Arts School,High School,280,"3120 S Kostner ave Chicago, IL 60623",2025-05-09T00:00:00Z,"3120 S Kostner ave Chicago, IL 60623 Chicago, IL",41.83516722258,-87.735566286247
+Haugan Elementary,Elementary,293,"4540 N Hamlin Avenue Chicago, IL 60625",2025-05-16T00:00:00Z,"4540 N Hamlin Avenue Chicago, IL 60625 Chicago, IL",41.963725039719,-87.723663983738
+Pritzker School,Elementary,200,"2009 W Schiller St, Chicago, IL, 60622",2025-05-27T00:00:00Z,"2009 W Schiller St, Chicago, IL, 60622 Chicago, IL",41.90688789911,-87.677785636707
+Social Justice High School,High School,200,"3120 S Kostner ave Chicago, IL 60623",2025-05-28T00:00:00Z,"3120 S Kostner ave Chicago, IL 60623 Chicago, IL",41.83516722258,-87.735566286247
+Haugan Elementary,Elementary,60,"4540 N Hamlin Ave, Chicago, IL 60625",2025-09-12T00:00:00Z,"4540 N Hamlin Ave, Chicago, IL 60625 Chicago, IL",41.963725039719,-87.723663983738
+Chavez Multicultural Academic Center,Middle,74,"4831 S. Hermitage Ave, Chicago, IL 60609",2025-10-01T00:00:00Z,"4831 S. Hermitage Ave, Chicago, IL 60609 Chicago, IL",41.80586999832,-87.668239990095
+George Washington High School,High School,150,"3535 E. 114th St, Chicago IL, 60617",2025-10-02T00:00:00Z,"3535 E. 114th St, Chicago IL, 60617 Chicago, IL",41.687165820825,-87.538186212787
+Zapata Elementary,Elementary,180,"2728 S Kostner Ave Chicago, IL 60623",2025-10-03T00:00:00Z,"2728 S Kostner Ave Chicago, IL 60623 Chicago, IL",41.841759086513,-87.735179126139
+Haugan Elementary,Elementary,150,"4540 N. Hamlin Ave, Chicago, IL 60625",2025-10-03T00:00:00Z,"4540 N. Hamlin Ave, Chicago, IL 60625 Chicago, IL",41.963725039719,-87.723663983738
+Little Village High School,High School,200,"3120 S Kostner Ave, Chicago, IL 60623",2025-10-06T00:00:00Z,"3120 S Kostner Ave, Chicago, IL 60623 Chicago, IL",41.83516722258,-87.735566286247
+Wescott Elementary,Elementary,107,"409 W 80th St, Chicago. IL 60620",2025-10-07T00:00:00Z,"409 W 80th St, Chicago. IL 60620 Chicago, IL",41.748675579088,-87.63553154079
+DRW College Prep,High School,90,"931 S. Homan Ave, Chicago, IL 60624",2025-10-08T00:00:00Z,"931 S. Homan Ave, Chicago, IL 60624 Chicago, IL",41.869245191044,-87.710003157943
+Nash Elementary,Elementary,80,"4837 W. Erie St, Chicago,IL 60644",2025-10-09T00:00:00Z,"4837 W. Erie St, Chicago,IL 60644 Chicago, IL",41.892032400655,-87.746951173873
+Robert Healy Elementary,Elementary,450,"3010 S. Parnell Ave, Chicago IL 60616",2025-10-16T00:00:00Z,"3010 S. Parnell Ave, Chicago IL 60616 Chicago, IL",41.839659000672,-87.64053176513
+Mitchell Elementary School,Elementary,110,"2233 W Ohio St. Chicago,IL 60612",2025-10-28T00:00:00Z,"2233 W Ohio St. Chicago,IL 60612 Chicago, IL",41.891966644624,-87.683181570695
+Grissom Elementary,Elementary,120,"12810 S. Escanaba Ave, Chicago IL 60633",2025-10-28T00:00:00Z,"12810 S. Escanaba Ave, Chicago IL 60633 Chicago, IL",41.662131842068,-87.553571950436
+Marcus Garvey Elementary,Elementary,100,"10309 S. Morgan St, Chicago IL 60643",2025-10-29T00:00:00Z,"10309 S. Morgan St, Chicago IL 60643 Chicago, IL",41.706602238913,-87.64706411755
+Brunson Elementary,Elementary,110,"932 N. Central Ave , Chicago, IL 60651",2025-11-04T00:00:00Z,"932 N. Central Ave , Chicago, IL 60651 Chicago, IL",41.897672248025,-87.765868961702
+Perspectives/IIT Math & Science Academy,High School,240,"3663 S. Wabash Ave, Chicago IL 60653",2025-11-04T00:00:00Z,"3663 S. Wabash Ave, Chicago IL 60653 Chicago, IL",41.827763277957,-87.624449491326
+Perspectives/IIT Math & Science Academy,High School,188,"3663 S. Wabash Ave, Chicago IL 60653",2025-11-05T00:00:00Z,"3663 S. Wabash Ave, Chicago IL 60653 Chicago, IL",41.827763277957,-87.624449491326
+Acero Charter-Brighton Park,Elementary,80,"4420 S. Fairfield Ave, Chicago,IL 60632",2025-11-07T00:00:00Z,"4420 S. Fairfield Ave, Chicago,IL 60632 Chicago, IL",41.812919095071,-87.693421406529
+Acero Charter-Brighton Park,Elementary,50,"4420 S. Fairfield Ave, Chicago,IL 60632",2025-11-14T00:00:00Z,"4420 S. Fairfield Ave, Chicago,IL 60632 Chicago, IL",41.812919095071,-87.693421406529
+Chavez Multicultural Academic Center,Middle,76,"4831 S. Hermitage Ave, Chicago, IL 60609",2025-12-02T00:00:00Z,"4831 S. Hermitage Ave, Chicago, IL 60609 Chicago, IL",41.80586999832,-87.668239990095
+Sawyer Elementary,Elementary,284,"5248 S. Sawyer Ave, Chicago, IL 60632",2025-12-03T00:00:00Z,"5248 S. Sawyer Ave, Chicago, IL 60632 Chicago, IL",41.797580170351,-87.705261347678
+Hale Elementary,Elementary,276,"6140 S. Melvina Ave, Chicago, IL 60638",2025-12-04T00:00:00Z,"6140 S. Melvina Ave, Chicago, IL 60638 Chicago, IL",41.780503383735,-87.776970121906
+Tilden High School,High School,70,"4747 S Union Ave, Chicago, IL, 6-60609",2026-01-06T00:00:00Z,"4747 S Union Ave, Chicago, IL, 6-60609 Chicago, IL",41.807520604603,-87.642101108861
+William H Ryder Math & Science Specialty ES,Elementary,50,"8716 S Wallace St  Chicago, IL 60620",2026-01-13T00:00:00Z,"8716 S Wallace St  Chicago, IL 60620 Chicago, IL",41.735261055518,-87.639514704998
+Robert L Grimes Middle School,Middle,135,"5450 W 64th Pl, Chicago, IL 60638",2026-01-21T00:00:00Z,"5450 W 64th Pl, Chicago, IL 60638 Chicago, IL",41.775681903481,-87.758708720914
+Florence Nightingale Elementary School,Elementary,250,"5225 S Talman Ave, Chicago, IL, 60632",2026-01-26T00:00:00Z,"5225 S Talman Ave, Chicago, IL, 60632 Chicago, IL",41.798332990985,-87.689662961145
+National Teacher Academy,Elementary,67,"55 W Cermak Rd, Chicago,IL 60616",2026-02-03T00:00:00Z,"55 W Cermak Rd, Chicago,IL 60616 Chicago, IL",41.851902907645,-87.628759717396
+Curie High School,High School,330,"4959 S Archer Ave, Chicago, IL 60632",2026-02-10T00:00:00Z,"4959 S Archer Ave, Chicago, IL 60632 Chicago, IL",41.802004557942,-87.722571067383
+Hernandez Middle School,Middle,600,"3510 W. 55th St, Chicago,IL  60632",2026-02-10T00:00:00Z,"3510 W. 55th St, Chicago,IL  60632 Chicago, IL",41.793694278129,-87.711975084484
+Rufino Tamayo Elementary School,Elementary,100,"5135 S California Ave, Chicago, IL 60632",2026-02-11T00:00:00Z,"5135 S California Ave, Chicago, IL 60632 Chicago, IL",41.799954051059,-87.69362039291
+George Washington Elementary School,Elementary,160,"3611 E.114th St, Chicago,IL 60617",2026-02-11T00:00:00Z,"3611 E.114th St, Chicago,IL 60617 Chicago, IL",41.687759804394,-87.535940030374
+Burroughs Elementary School,Elementary,100,"3542 S Washtenaw Ave., Chicago, IL 60632",2026-02-12T00:00:00Z,"3542 S Washtenaw Ave., Chicago, IL 60632 Chicago, IL",41.828857577326,-87.692697461551
+Dyett High School For The Arts,High School,200,"555 E. 51st St, Chicago,IL 60615",2026-02-12T00:00:00Z,"555 E. 51st St, Chicago,IL 60615 Chicago, IL",41.801385596302,-87.611874038173
+Cesar Chavez Multicultural Arts Center,Middle,80,"4831 S Hermitage Ave, Chicago, IL, 60609",2026-02-18T00:00:00Z,"4831 S Hermitage Ave, Chicago, IL, 60609 Chicago, IL",41.80586999832,-87.668239990095
+Theophilus Schmid School,Elementary,50,"9755 S Greenwood Eve,Chicago, IL 60628",2026-02-19T00:00:00Z,"9755 S Greenwood Eve,Chicago, IL 60628 Chicago, IL",41.71712228177,-87.596590308285
+Mahalia Elementary School,Elementary,50,"917 W 88th St, Chicago, IL 60620",2026-02-20T00:00:00Z,"917 W 88th St, Chicago, IL 60620 Chicago, IL",41.733860229949,-87.646873010158
+Perspectives Rodney D. Joslin Campus,High School,40,"1930 S Archer Ave, Chicago, IL 60616",2026-02-23T00:00:00Z,"1930 S Archer Ave, Chicago, IL 60616 Chicago, IL",41.856355793707,-87.628234004429
+Kilmer Elementary,Elementary,200,"6700 N Greenview Ave, Chicago, IL 60626",2026-02-23T00:00:00Z,"6700 N Greenview Ave, Chicago, IL 60626 Chicago, IL",42.003915552983,-87.668498068894
+Curie High School,High School,160,"4959 S Archer Ave, Chicago, IL 60632",2026-02-24T00:00:00Z,"4959 S Archer Ave, Chicago, IL 60632 Chicago, IL",41.802004557942,-87.722571067383
+Perspectives Rodney D. Joslin Campus,High School,40,"1930 S Archer Ave, Chicago, IL 60616",2026-02-25T00:00:00Z,"1930 S Archer Ave, Chicago, IL 60616 Chicago, IL",41.856355793707,-87.628234004429
+Perspectives Rodney D. Joslin Campus,High School,40,"1930 S Archer Ave, Chicago, IL 60616",2026-02-26T00:00:00Z,"1930 S Archer Ave, Chicago, IL 60616 Chicago, IL",41.856355793707,-87.628234004429
+Christian Fenger Academy,High School,100,"11220 S Wallace St, Chicago, IL 60628",2026-02-27T00:00:00Z,"11220 S Wallace St, Chicago, IL 60628 Chicago, IL",41.689078361583,-87.638358672912
+UIC College Prep,High School,40,"1231 S Damen Ave, Chicago, IL 60608",2026-03-03T00:00:00Z,"1231 S Damen Ave, Chicago, IL 60608 Chicago, IL",41.865236503941,-87.675910772605
+James Farmer Jr. Elementary School,Elementary,100,"4214 S St Lawrence Ave, Chicago, IL, 60653",2026-03-05T00:00:00Z,"4214 S St Lawrence Ave, Chicago, IL, 60653 Chicago, IL",41.817871626382,-87.612337725056
+Webster Elementary,Elementary,40,"4055 W. Arthington St, Chicago,  IL 60624",2026-03-10T00:00:00Z,"4055 W. Arthington St, Chicago,  IL 60624 Chicago, IL",41.869721408873,-87.726842233784
+Tanner Elementary School,Elementary,60,"7350 S Evans Ave, Chicago, IL 60619",2026-03-10T00:00:00Z,"7350 S Evans Ave, Chicago, IL 60619 Chicago, IL",41.760666520223,-87.607178747471
+Pathways- Brighton Park,High School,150,"3124 W. 47th St, Chicago, IL 60632",2026-03-11T00:00:00Z,"3124 W. 47th St, Chicago, IL 60632 Chicago, IL",41.808356531806,-87.702592046793
+Mark Twain Elementary School,Elementary,230,"5134 S Lotus Ave,Chicago, IL 60638",2026-03-11T00:00:00Z,"5134 S Lotus Ave,Chicago, IL 60638 Chicago, IL",41.799136605952,-87.759394109137
+CISC Loomis-Longwood,High School,120,"1309 W. 95th St, Chicago, IL 60643",2026-03-17T00:00:00Z,"1309 W. 95th St, Chicago, IL 60643 Chicago, IL",41.720920792651,-87.655803676534
+UIC College Prep,High School,60,"1231 S Damen Ave, Chicago, IL 60608",2026-03-18T00:00:00Z,"1231 S Damen Ave, Chicago, IL 60608 Chicago, IL",41.865236503941,-87.675910772605
+Hyman Rickover Naval Academy,High School,153,"5700 W. Berteau Ave , Chicago, IL 60634",2026-03-30T00:00:00Z,"5700 W. Berteau Ave , Chicago, IL 60634 Chicago, IL",41.957398756387,-87.770681515229
+Talcott Elementary,Elementary,50,"1840 W. Ohio St, Chicago, Il 60622",2026-03-31T00:00:00Z,"1840 W. Ohio St, Chicago, Il 60622 Chicago, IL",41.892598221028,-87.673958292079
+Talcott Elementary,Elementary,50,"1840 W. Ohio St, Chicago, Il 60622",2026-03-31T00:00:00Z,"1840 W. Ohio St, Chicago, Il 60622 Chicago, IL",41.892598221028,-87.673958292079
+Nobel Dual Language Elementary,Elementary,191,"4127 W. Hirsch St, Chicago, IL 60651",2026-03-31T00:00:00Z,"4127 W. Hirsch St, Chicago, IL 60651 Chicago, IL",41.905827881724,-87.729855779433
+South Loop Middle School,Middle,70,"1601 S Dearborn St, Chicago, IL 60616",2026-03-31T00:00:00Z,"1601 S Dearborn St, Chicago, IL 60616 Chicago, IL",41.859541210281,-87.62834732776
+Dett Elementary,Elementary,80,"2131 W. Monroe St, Chicago, IL 60612",2026-03-31T00:00:00Z,"2131 W. Monroe St, Chicago, IL 60612 Chicago, IL",41.879657484535,-87.680153440535
+South Loop Middle School,Middle,185,"1601 S Dearborn St, Chicago, IL 60616",2026-03-31T00:00:00Z,"1601 S Dearborn St, Chicago, IL 60616 Chicago, IL",41.859541210281,-87.62834732776
+Rowe Elementary School,Elementary,80,"1424 N Cleaver St, Chicago, IL 60616",2026-03-31T00:00:00Z,"1424 N Cleaver St, Chicago, IL 60616 Chicago, IL",41.90779859289,-87.664687320434
+Rowe Elementary School,Elementary,10,"1424 N Cleaver St, Chicago, IL 60616",2026-03-31T00:00:00Z,"1424 N Cleaver St, Chicago, IL 60616 Chicago, IL",41.90779859289,-87.664687320434
+Acero Charter -Marquez,Elementary,120,"2916 W 47th St, Chicago, IL 60632",2026-03-31T00:00:00Z,"2916 W 47th St, Chicago, IL 60632 Chicago, IL",41.808570605614,-87.697191838034
+Hurley Elementary School,Elementary,70,"3849 W 69th Pl, Chicago, IL 60629",2026-03-31T00:00:00Z,"3849 W 69th Pl, Chicago, IL 60629 Chicago, IL",41.766551580171,-87.719282762948
+Academy for Global Citizenship,Elementary,45,"4942 W 44th St, Chicago, IL 60638",2026-03-31T00:00:00Z,"4942 W 44th St, Chicago, IL 60638 Chicago, IL",41.813421967352,-87.747997235389
+Pathways HS- Ashburn,High School,40,"3284 W. 87th St Chicago, IL 60652",2026-03-31T00:00:00Z,"3284 W. 87th St Chicago, IL 60652 Chicago, IL",41.736596334603,-87.705347848919
+Turner-Drew,Elementary,75,"9300 S Princeton Ave, Chicago, IL 60620",2026-03-31T00:00:00Z,"9300 S Princeton Ave, Chicago, IL 60620 Chicago, IL",41.725720982871,-87.630484210155
